@@ -36,7 +36,7 @@ Constraints:
  
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
 
-## ChatGPT-3.5 Feedback
+## ChatGPT-3.5 Feedback on Solution
 
 The time complexity of the provided code is O(n), where n is the length of the input array nums. This is because the code iterates through the array once and performs constant-time operations for each element. Therefore, this is already an optimal solution in terms of time complexity.
 
